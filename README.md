@@ -1,5 +1,7 @@
 # nan-usage — plugin de métricas de suscripción NaN para Hermes
 
+> Cuota por modelo, presión de 429, requests por minuto reales y **drift de la key**: qué le está gastando de verdad a tu suscripción, sin proxy en la inferencia y sin escribirle nada a nadie.
+
 Panel para [Hermes Agent](https://hermes-agent.nousresearch.com) (app de escritorio) que muestra, sin proxy ni interposición en la inferencia, qué está pasando con tu cuenta de [nan.builders](https://nan.builders):
 
 - **Cuota por modelo** (tokens usados / tope del período, bonos extra, ventana deslizante) con anillos de progreso
