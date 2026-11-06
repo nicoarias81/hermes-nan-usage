@@ -1,0 +1,14 @@
+{
+  "name": "nan-usage",
+  "label": "NaN Usage",
+  "description": "Métricas de suscripción NaN: cuotas por modelo, series diarias, presión 429, RPS local y eficiencia de caché",
+  "icon": "BarChart3",
+  "version": "1.0.0",
+  "tab": {
+    "path": "/nan-usage",
+    "position": "after:analytics",
+    "hidden": true
+  },
+  "entry": "dist/index.js",
+  "api": "plugin_api.py"
+}
